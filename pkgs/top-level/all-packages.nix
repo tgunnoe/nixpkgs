@@ -25869,6 +25869,8 @@ in
 
   lugaru = callPackage ../games/lugaru {};
 
+  lzwolf = callPackage ../games/lzwolf { };
+
   macopix = callPackage ../games/macopix {
     gtk = gtk2;
   };
